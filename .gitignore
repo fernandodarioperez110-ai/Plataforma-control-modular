@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+runs.db
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Editor
+.vscode/
+.DS_Store
+
+# Script local para subir a GitHub
+subir_a_github.bat
